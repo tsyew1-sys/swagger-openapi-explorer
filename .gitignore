@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Env files / secrets
+.env
+.env.*
+*.pem
+*.key
+*.crt
+secrets/
+tokens/
+credentials.json
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Build / package output
+dist/
+build/
+tmp/
+temp/
+*.zip
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test / coverage
+coverage/
+.nyc_output/
+.pytest_cache/
+
+# Skill-specific generated files
+parsed_specs/
+cache/
