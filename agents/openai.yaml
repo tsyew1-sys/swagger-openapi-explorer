@@ -1,0 +1,3 @@
+interface:
+  display_name: "Swagger OpenAPI Explorer"
+  short_description: "Find endpoints and inspect example request/response JSON from Swagger or OpenAPI specs."
